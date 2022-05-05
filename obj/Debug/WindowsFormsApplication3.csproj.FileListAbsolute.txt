@@ -1,0 +1,27 @@
+d:\мои документы\visual studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\bin\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\bin\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\bin\Debug\WindowsFormsApplication3.exe
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\bin\Debug\WindowsFormsApplication3.pdb
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\WindowsFormsApplication3 - копия - копия\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
